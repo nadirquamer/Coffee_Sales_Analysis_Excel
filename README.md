@@ -16,8 +16,11 @@ The source data contained 3 tables:
 2. Performed EDA, data cleaning, and formatting and added some new required columns.
 3. Created table and inserted pivot table and built a dynamic interactive dashboard in Excel.
 
-### 
+### Some Key Analysis
 
+- Sum of Sales of all 4 types of coffee- Yearly and Monthly
+
+![Coffee2](https://github.com/nadirquamer/Coffee_Sales_Analysis_Excel/assets/46354703/9896cedf-7182-45a1-894c-c40d2bf217b2)
 
 
 ### Final Dashboards
