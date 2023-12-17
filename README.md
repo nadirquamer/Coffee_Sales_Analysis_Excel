@@ -22,6 +22,9 @@ The source data contained 3 tables:
 
 ![Coffee2](https://github.com/nadirquamer/Coffee_Sales_Analysis_Excel/assets/46354703/9896cedf-7182-45a1-894c-c40d2bf217b2)
 
+- Sum of Sales- Country wise
+
+![coffee4](https://github.com/nadirquamer/Coffee_Sales_Analysis_Excel/assets/46354703/f96023f4-7ff9-4715-aaca-9f1c8d1f847e)
 
 ### Final Dashboards
 
