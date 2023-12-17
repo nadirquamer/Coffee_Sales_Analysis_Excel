@@ -14,4 +14,9 @@ A Coffee trading company sells their product in three markets i.e. United States
 
 ![Coffee Sales Dashboard1](https://github.com/nadirquamer/Coffee_Sales_Analysis_Excel/assets/46354703/0844fa76-0089-4600-a9e5-a54a6011f189)
 
+### Key Insights
+
+- As per data, the United States are biggest market for all roasted types and sizes.
+- Data shows all 4 types of coffee i.e. Arabica, Excelsa, Liberica, and Robusta have very dynamic sales with time.
+
 
